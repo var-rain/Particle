@@ -1,5 +1,5 @@
 ## 漂浮气泡
-#### 国际管理,先上图
+#### 国际惯例,先上图
 ![Screen Capture](https://github.com/1934016928/Particle/raw/master/screen_capture.gif)
 
 #### TIPS
